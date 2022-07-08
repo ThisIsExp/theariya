@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @theariya
 - 👀 I’m interested in Programming ,Linux ,Open Source software ,Science ,Book ,F1 ,motoGP, Football, Snooker, and... :D
-- 🌱 I’m currently learning python and linux 
+- 🌱 I’m currently learning Spring framework 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
 
